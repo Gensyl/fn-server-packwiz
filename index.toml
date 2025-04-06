@@ -1610,11 +1610,6 @@ hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "134caaf6adf6ad007d4c6449430062d5a152238828e9fb8271060587adbbf61f"
 metafile = true
