@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "9420095c09381c58d2b261b72cd518a546701fcc18ddca39a48d2bfb2a6f3e74"
+hash = "9c6532afb0c8d369a6a0134f23ba29a37e70af633f8323d9af4345cffdb09ffc"
 metafile = true
 
 [[files]]
@@ -1333,7 +1333,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "8fd822a5dde2425d202a9e81871c2571e45f185ba87286f49fad33131063bb6f"
+hash = "2b5ab037af90047eb76bd3efe5b9a3ee444ec001d75323594abaf142c2162e1e"
 metafile = true
 
 [[files]]
