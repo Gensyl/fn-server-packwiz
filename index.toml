@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-capabilities.pw.toml"
-hash = "9c5d5bcc84c2d398fc242d9ec672a70942b085535e112d9f601397620d842578"
+hash = "314a93dfff69687a32ee56247a3d22e8e882801e3276cf80c89c77c3a14429f5"
 metafile = true
 
 [[files]]
