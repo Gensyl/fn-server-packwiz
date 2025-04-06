@@ -968,11 +968,6 @@ hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "314a93dfff69687a32ee56247a3d22e8e882801e3276cf80c89c77c3a14429f5"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -1035,11 +1030,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
-metafile = true
-
-[[files]]
-file = "mods/cyclops-core.pw.toml"
-hash = "9c6532afb0c8d369a6a0134f23ba29a37e70af633f8323d9af4345cffdb09ffc"
 metafile = true
 
 [[files]]
@@ -1324,26 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "cc915fa89d08f004a5ae06b3b6e37c10b500e79b0bdf7c9c50452b185d1ef25f"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.pw.toml"
-hash = "fe4286af21aba85c6eb1d348e344b85738f5f0160ab6f6cd79c6bbbd5435dc00"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.pw.toml"
-hash = "2b5ab037af90047eb76bd3efe5b9a3ee444ec001d75323594abaf142c2162e1e"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.pw.toml"
-hash = "7861ddd0ba6c0da4708391bb8b7c6196bbf6c876d2ac774c735a77c42671cbe3"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.pw.toml"
-hash = "2163c7612873d0d56aedce3d164534b899da0bec98c945e31dd1db4c551237d2"
 metafile = true
 
 [[files]]
