@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "56ba4521e19908bbca80a4832c3acf92683ea2376e808628e5ae775b1857f304"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
 
 [[files]]
@@ -1373,7 +1373,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
 metafile = true
 
 [[files]]
