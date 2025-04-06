@@ -1008,11 +1008,6 @@ hash = "e19f570bd00435d3b5961573f9c92defda357a329b62959d2fbff80def500fc2"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
 metafile = true
@@ -1695,11 +1690,6 @@ hash = "a85625f6ccbf3c786036d8d7c908ab861649d2295faac20caf9fefdc90a3846c"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "46ea9007d32c553d56bfa1bbd8f070a99f1c82eeb8dbd326dc07df9512df41e3"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
@@ -1872,11 +1862,6 @@ metafile = true
 [[files]]
 file = "mods/tetranomicon.pw.toml"
 hash = "aad2682b1c54883c1a48e288782281b694c4ce1c630ddbfdad11ee2429562fbe"
-metafile = true
-
-[[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "ae4956baa7bfc8a7d596169d256eba7ed2e2961b55e4ad331b50d3dc6c72baeb"
 metafile = true
 
 [[files]]
