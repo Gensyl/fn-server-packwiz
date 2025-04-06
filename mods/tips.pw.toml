@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-Forge-1.20.1-12.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f296abb22a85e103d2adbec24ca1485671bd4f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5515421
+project-id = 306549

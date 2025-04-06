@@ -1,0 +1,13 @@
+name = "Valhelsia 6"
+author = "ValhelsiaTeam"
+version = "6.2.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea45adfa5c480b98c8e80edd19911fa90f5f70b3f26cd6a43ed9a5f63f41928e"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"
