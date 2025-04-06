@@ -1332,6 +1332,11 @@ hash = "e919c1e5ae77026164698e5bacad6b904f4a63c3aa0ed845a90abffd8ac9cc70"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "cc915fa89d08f004a5ae06b3b6e37c10b500e79b0bdf7c9c50452b185d1ef25f"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "fe4286af21aba85c6eb1d348e344b85738f5f0160ab6f6cd79c6bbbd5435dc00"
 metafile = true
