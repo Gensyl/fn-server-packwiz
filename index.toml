@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "df431350484a23c4ca7046419698469f83b180df54d838c481e1939f93a14f7a"
+hash = "00514c9314f52b85916c096ee73f64989d92a5b1cba6ef9a01dfdf5fafbf4fb8"
 metafile = true
 
 [[files]]
@@ -1836,12 +1836,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries-squared.pw.toml"
-hash = "d9e16a6159f862212f42b1283ee267cfcb4360b3c0ab61a1004ba5f17d584986"
+hash = "8dcf2740418bb9fb84cb77cfcf11565c1056da21f5485e5da448e237caf5bfe0"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1e6efbcc9bc0653d549548285eadab162435855b484fd4846adc2c38fade5aba"
+hash = "e7cacbfc09f20dd5da90496d3667a5d936e6eb7894c398ff8f766ace81c563c1"
 metafile = true
 
 [[files]]
