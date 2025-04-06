@@ -1457,11 +1457,6 @@ hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
 
 [[files]]
-file = "mods/lodestone.pw.toml"
-hash = "a484a0a768e886244dab01dd9793d979ca5d57b8327f9f4caa36a3031fc46d63"
-metafile = true
-
-[[files]]
 file = "mods/login-protection.pw.toml"
 hash = "2d67ff2c975575a23544589d27e7572fb38c554071e519915f13bee911cba23e"
 metafile = true
@@ -1489,11 +1484,6 @@ metafile = true
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "c8c25cccf1f0c3aaa0a5639f28f40d61b4eadd3130558b39ce6c279b8b775556"
-metafile = true
-
-[[files]]
-file = "mods/malum.pw.toml"
-hash = "ed5b202169a2d706d6e3e26f33a742c3da7f80a5403cca9863c889d453156358"
 metafile = true
 
 [[files]]
