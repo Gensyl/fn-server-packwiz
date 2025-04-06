@@ -339,10 +339,6 @@ file = "global_packs/required_resources/Valhelsia Assets.zip"
 hash = "a433def1c9deecddfb6620cab8e2b28a90cb88ac28dc9edc9c060aa9d18216a5"
 
 [[files]]
-file = "icon.png"
-hash = "6aee77ea38273c37954454a55a150929dd817c8f0046875ffdad294c8ba64058"
-
-[[files]]
 file = "icons/icon_16x16.png"
 hash = "88047570077136a146025d194049c49489cc0208d0a46eafb87d7fcb5d86cb67"
 
@@ -773,11 +769,6 @@ hash = "abacb4c3ba7f8500e69cb10c87ee17acb91332e5d6fe174cb86eedd9b864cb6c"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "3a563cec62a27bffa896631b5560d2f546ff2623ab9e2cabfeced7904c09c5d8"
-metafile = true
-
-[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "e30334d2d1274ad6219b3f14bda308f94e396c9150b68b0424222b9f52089767"
 metafile = true
@@ -871,6 +862,10 @@ metafile = true
 file = "mods/buzzier-bees.pw.toml"
 hash = "43ea0b2c562f25ba5a7dd0fe2a6694bed02af4ae4aa39bffe7bbf92ae31a5f87"
 metafile = true
+
+[[files]]
+file = "mods/bwncr-forge-1.20.1-3.17.2.jar"
+hash = "d6c120a438f0b347f78d21758d0e05459e09ccd87bb9cae9ee1955ab2750afd9"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -1606,9 +1601,8 @@ hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "a7ef1d4b49a5c1ad4ddb1206240550812572a913c50ca87adfe32b04d1317967"
-metafile = true
+file = "mods/notenoughanimations-forge-1.7.4-mc1.20.1.jar"
+hash = "103fca50b60ae327db0241560f45d7152a265252c13ced93fd0681a9c986fa8c"
 
 [[files]]
 file = "mods/ob-aquamirae.pw.toml"
