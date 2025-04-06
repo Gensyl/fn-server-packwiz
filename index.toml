@@ -1493,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum.pw.toml"
-hash = "bd0c25c86b22b320e148e3571927976888fd3dc3a592d0783a74e06f736df8ae"
+hash = "ed5b202169a2d706d6e3e26f33a742c3da7f80a5403cca9863c889d453156358"
 metafile = true
 
 [[files]]
