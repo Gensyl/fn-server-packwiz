@@ -968,6 +968,10 @@ hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
+file = "mods/complexhex-fabric-1.20.1-0.1.3-beta.jar"
+hash = "b3c0a6166313a2725d068cf3ccb5b5ae48f50b08f9e2e60cef0c7583c771ab10"
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
 metafile = true
@@ -1133,6 +1137,10 @@ hash = "bd3ba2a82d5b80be3ccc187ad50a1aec11f53956c2a20cd9a0ad70b8cd932c1d"
 metafile = true
 
 [[files]]
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "dddef85604b04d3a70ab1e3698faff63e047e0d9b8989145827dcf8bdaec4bc0"
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "44c00830f6846950304afc94b50bda7c60cc8ce9a7550344c9fa2504da563b2f"
 metafile = true
@@ -1141,6 +1149,10 @@ metafile = true
 file = "mods/every-compat.pw.toml"
 hash = "8d1837a31fdfc4692e50cff294e293be77095f063049d9912e486250f0191641"
 metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar"
+hash = "6d79823235ac5b64eeb0a9cb5711a4c8661c01f70e22546dde6a4db15fe59713"
 
 [[files]]
 file = "mods/fairy-lights.pw.toml"
@@ -1288,8 +1300,20 @@ hash = "c1d1a67fd1aa59ef8ff134b5801d0ffee92610ec6639562617dc283eaf3c2274"
 metafile = true
 
 [[files]]
+file = "mods/hex_machina-1.0.1.jar"
+hash = "1c61381861043149b4351544875e2558d5bd80bc664e2899d62f4021fa2cf42a"
+
+[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-3-skyevg-unofficial.jar"
 hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
+
+[[files]]
+file = "mods/hexcassettes-1.1.4.jar"
+hash = "84718bb7c4d114c74f3f4aaf6de005e110b9f71c3538e6b63bffc1b7a6390b15"
+
+[[files]]
+file = "mods/hexcellular-1.0.4.jar"
+hash = "71232a2e48d8f798a6326976727f565718e58cc3f212eb55e90be4201c6a2c42"
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
@@ -1573,6 +1597,10 @@ metafile = true
 file = "mods/obscure-api.pw.toml"
 hash = "fd382cec52297ec03c27c9127dcc2d0b2c288262ce5680a1e7b6d9d8bfc04ece"
 metafile = true
+
+[[files]]
+file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
+hash = "b527325b3bf5b834232b81b071bf434559903153b1c592ca1458a483cafeb3b3"
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
