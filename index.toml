@@ -978,6 +978,11 @@ hash = "910dd87d10f8b7e5f2e34bafdeb392e0c5c7094b35e957e685bb30590626623f"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
 file = "mods/controllable.pw.toml"
 hash = "f96676207d11467ed44383683625d22497e28768c78f9b8b21548dd6abe77896"
 metafile = true
@@ -1205,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/forge-cit.pw.toml"
 hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "3906d79212d26da8569ad46ae6bff34f8af0b3bc0a1ec6b658c8bf7a07b939d8"
 metafile = true
 
 [[files]]
@@ -1707,6 +1717,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "3855c9fadf98b9af17ccafa3642d26efe94f317d1db73f7a9ea9b959fe8505fd"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0eab5a7036d1f06d6a7d4679685eaec5723a5c21469f519de1cd1e0ff416ade3"
 metafile = true
 
 [[files]]
