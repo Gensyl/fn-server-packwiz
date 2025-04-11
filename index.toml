@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -1220,6 +1220,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "eb351918762f5c8f05672257082d1ca144c3c9397c40d6785116d1af8b02d864"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "5d5819b14f3e0088d99e82f2a6b2f77df2b566726c9380b89b858b4246c69d25"
 metafile = true
 
 [[files]]
