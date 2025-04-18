@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
+hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
 metafile = true
 
 [[files]]
@@ -1245,11 +1245,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
 
 [[files]]
