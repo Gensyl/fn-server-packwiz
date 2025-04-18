@@ -1253,6 +1253,11 @@ hash = "598758f152e98916bc6eea2ad73a82b47a6e6934f4b0ba1e1f6593773afd1a50"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
+metafile = true
+
+[[files]]
 file = "mods/gml.pw.toml"
 hash = "23615170751c82b39f99ca44860c221b6eae8447c8ccdc94d776bd7de6b59625"
 metafile = true
@@ -1344,6 +1349,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "aba5a3408880f30daf3442ff6d0a640e9a78e578d9f0c3a3be175ca12dbc3167"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "9482df68dbfa37997b45261992051d5dbcbb0d3d9f4ca766d548bcffdf825060"
 metafile = true
 
 [[files]]
