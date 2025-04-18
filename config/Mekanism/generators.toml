@@ -4,14 +4,14 @@
 	#Affects the Injection Rate, Max Temp, and Ignition Temp.
 	energyPerFusionFuel = "10000000"
 	#Peak output for the Solar Generator. Note: It can go higher than this value in some extreme environments.
-	solarGeneration = "35"
+	solarGeneration = "50"
 	#Peak output for the Advanced Solar Generator. Note: It can go higher than this value in some extreme environments.
-	advancedSolarGeneration = "150"
+	advancedSolarGeneration = "300"
 
 	#Bio Generator Settings
 	[generators.bio_generator]
 		#Amount of energy in Joules the Bio Generator produces per tick.
-		bioGeneration = "300"
+		bioGeneration = "350"
 		#The capacity in mB of the fluid tank in the Bio Generator.
 		#Range: > 1
 		tankCapacity = 24000
@@ -19,11 +19,11 @@
 	#Heat Generator Settings
 	[generators.heat_generator]
 		#Amount of energy in Joules the Heat Generator produces per tick. heatGeneration + heatGenerationLava * lavaSides + heatGenerationNether. Note: lavaSides is how many sides are adjacent to lava, this includes the block itself if it is lava logged allowing for a max of 7 "sides".
-		heatGeneration = "100"
+		heatGeneration = "200"
 		#Multiplier of effectiveness of Lava that is adjacent to the Heat Generator.
-		heatGenerationLava = "10"
+		heatGenerationLava = "30"
 		#Add this amount of Joules to the energy produced by a heat generator if it is in an 'ultrawarm' dimension, in vanilla this is just the Nether.
-		heatGenerationNether = "50"
+		heatGenerationNether = "100"
 		#The capacity in mB of the fluid tank in the Heat Generator.
 		#Range: > 1
 		tankCapacity = 24000
@@ -64,14 +64,14 @@
 	#Wind Generator Settings
 	[generators.wind_generator]
 		#Minimum base generation value of the Wind Generator.
-		windGenerationMin = "40"
+		windGenerationMin = "60"
 		#Maximum base generation value of the Wind Generator.
 		generationMax = "480"
 		#The minimum Y value that affects the Wind Generators Power generation. This value gets clamped at the world's min height.
 		#Range: -2032 ~ 2030
-		minY = 64
+		minY = 24
 		#The maximum Y value that affects the Wind Generators Power generation. This value gets clamped at the world's logical height.
-		maxY = 255
+		maxY = 2031
 		#The list of dimension ids that the Wind Generator will not generate power in.
 		windGenerationDimBlacklist = []
 

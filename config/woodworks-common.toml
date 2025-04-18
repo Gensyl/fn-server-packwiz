@@ -1,18 +1,18 @@
 
 [blocks]
-	Sawmill = false
+	Sawmill = true
 	"Wooden boards" = true
-	"Wooden bookshelves" = false
-	"Wooden ladders" = false
+	"Wooden bookshelves" = true
+	"Wooden ladders" = true
 	"Wooden beehives" = true
 	"Wooden chests" = true
-	"Leaf piles" = false
+	"Leaf piles" = true
 
 [generation]
-	#If variant bookshelves replace bookshelves in certain structures
-	"Wooden bookshelves in structures" = false
-	#If variant ladders replace ladders in certain structures
-	"Wooden ladders in structures" = false
-	#If variant chests replace chests in certain structures
-	"Wooden chests in structres" = true
+	#If variant bookshelves replace bookshelves in Villages
+	"Wooden bookshelves in Villages" = true
+	#If variant ladders replace ladders in Villages
+	"Wooden ladders in Villages" = true
+	#If variant chests replace chests in Villages
+	"Wooden chests in Villages" = true
 

@@ -7,9 +7,10 @@
     "deniedLeaves": [],
     "breakMode": "INSTANTANEOUS",
     "detectionMode": "WHOLE_TREE",
-    "maxScanSize": 50,
-    "maxSize": 24,
-    "maxSizeAction": "CUT",
+    "maxScanSize": 500,
+    "maxSize": 100,
+    "maxLeafDistanceFromLog": 15,
+    "maxSizeAction": "ABORT",
     "breakOrder": "FURTHEST_FIRST",
     "minimumLeavesAroundRequired": 1,
     "includePersistentLeavesInRequiredCount": true,
@@ -30,17 +31,17 @@
     "ignoreTools": false,
     "damageMultiplicand": 1.0,
     "damageRounding": "ROUND_DOWN",
-    "speedMultiplicand": 0.85,
+    "speedMultiplicand": 0.0,
     "forceToolUsage": false
   },
   "player": {
     "allowedTags": []
   },
   "enchantment": {
-    "registerEnchant": true,
+    "registerEnchant": false,
     "registerSpecificEnchant": false,
     "hideEnchant": false,
-    "requireEnchantment": true
+    "requireEnchantment": false
   },
   "sneakMode": "SNEAK_DISABLE",
   "breakInCreative": false,
