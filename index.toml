@@ -769,11 +769,6 @@ hash = "6d2c7e84e061c516394e0f847e1b8fb81b8564fefd6d66f63fb23ac8e9527186"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
-metafile = true
-
-[[files]]
 file = "mods/bagus-lib.pw.toml"
 hash = "424805e199413a3398ebc40eae0b3f795ec2ad322621be7857d0ba6386bde3da"
 metafile = true
@@ -1563,11 +1558,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "43ff48404322ec170ef9a931bc2f95cc9b488e2834934e2af6c5e0ebebc5fb9c"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "a288648e98eecb160b8434891363f57812b9e937910791652add49ed1c0bf9f3"
 metafile = true
 
 [[files]]
