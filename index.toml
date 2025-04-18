@@ -834,11 +834,6 @@ hash = "b66321dcd74400f64d539bde020f14335d77d04012b2f991b0cfb5bc800ba9a7"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "790de162313fcbe950496580db107eb8da2ae29060cbf611764d1bb352461d03"
 metafile = true
