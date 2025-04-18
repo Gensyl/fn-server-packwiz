@@ -679,6 +679,11 @@ hash = "ade685fecb6727ffbb0dca173fbab2ac74bf3760af8b2325d437382195da9baf"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
+metafile = true
+
+[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "dbebcab51da752a59d057d50f02ced6d3cce3270389f52c414d034f000674790"
 metafile = true
