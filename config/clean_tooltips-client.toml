@@ -1,7 +1,7 @@
 
 [durability]
 	#Should the Durability section be enabled?
-	enabled = false
+	enabled = true
 
 [enchantments]
 	#Should the fancied up Enchantment section be used?
