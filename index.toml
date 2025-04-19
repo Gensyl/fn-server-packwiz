@@ -3110,6 +3110,10 @@ hash = "b95877b8d6f69db8f0c2fb3a4f76f7c6bc2f86896aec004acf350b1102ce27a1"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin-1.13.1+kotlin.2.1.10.jar"
+hash = "6d79823235ac5b64eeb0a9cb5711a4c8661c01f70e22546dde6a4db15fe59713"
+
+[[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
 metafile = true
