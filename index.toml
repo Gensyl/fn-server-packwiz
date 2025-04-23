@@ -3261,6 +3261,11 @@ hash = "9b5b042c3fd7a8b1ad0862501771aac5f6c078d93c5e6b26e86fe06b1d2b6646"
 metafile = true
 
 [[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
+metafile = true
+
+[[files]]
 file = "mods/huntersreturn.pw.toml"
 hash = "95b594ad3538cbe6a6aa4396390d3c8721992487a2736888ea7ae048e1558f51"
 metafile = true
