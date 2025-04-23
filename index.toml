@@ -2495,6 +2495,10 @@ file = "kubejs/server_scripts/first_start.js"
 hash = "0775398573cb029f9fbb8be6a8b4df1d83d7951a7c1e64b1f40ded4a4ccfc596"
 
 [[files]]
+file = "kubejs/server_scripts/hexcasting.js"
+hash = "bc54ff6164bae38d0529a527c4da54fbc8455e6230fc923186cfd0bc2b42b371"
+
+[[files]]
 file = "kubejs/server_scripts/loot_tables/entities.js"
 hash = "4d549ebe49e7151b766e73e6651ceb411c9229b7d1886f66e8b5962178db1e5f"
 
