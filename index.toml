@@ -2694,7 +2694,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -3252,7 +3252,7 @@ hash = "319c97bf00a879d34c146cbbfcec6c29f97a591abc92c293281d99fff3cf9605"
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "28c1b2fb15c38c83c482e3dd1ae05a06a7d400bbc01d94848eb80bfc179279a8"
+hash = "324da80a3215bb8729330dadbe6f5ddc022b7d29411c29c803a027c0aff84e4f"
 metafile = true
 
 [[files]]
@@ -3293,6 +3293,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "7c993c8854fa4a7510e886ada88f3070ccdfcf4ca199dda558a4f6b0318f0132"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "e020308ed7d53d35454e422c23b93bcfd3d2ab14b32c229ce767908c5064b5ce"
 metafile = true
 
 [[files]]
