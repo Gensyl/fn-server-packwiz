@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
-metafile = true
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
 
@@ -3995,6 +3985,10 @@ hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "af90c71557c539fce8f8eb3285b6578d6062a5f10eccee1fe703e684952ce5db"
+
+[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
 hash = "d260b30f339767715a07898a93bacfab1ab63ccc60c43170573c03e5e891bb6a"
 
@@ -4013,8 +4007,3 @@ hash = "6f53ed9b90f5e1edc4f51983fd9464a8ed8beb96a02f67844a9c244fdbc104c8"
 [[files]]
 file = "shaderpacks/Spooklementary_1.1.zip.txt"
 hash = "1fdb2f2c8cdb46aa9b737c213b8ae030f5ba5534f024c76f03baf6ab8e0ac6d3"
-
-[[files]]
-file = "spooklementary.pw.toml"
-hash = "486f35aaea411f0b3832408fb5b1f7e26dd9f3fe28a5451527b0bee7777720f2"
-metafile = true
