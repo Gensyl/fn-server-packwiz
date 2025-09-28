@@ -2815,8 +2815,8 @@ hash = "5155ae1ca2c606df2001422a48cd167d2449160d5fe12a302753dee69af7fe92"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.3.jar"
-hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+file = "mods/cardinal-components-api-5.2.2.jar"
+hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
 
 [[files]]
 file = "mods/carpeted-stairs.pw.toml"
