@@ -3272,6 +3272,10 @@ hash = "8d90e120095bba29fd191f0831b90015b86d5978ac6fddb8f3570bac2533e5e7"
 metafile = true
 
 [[files]]
+file = "mods/hexpose-1.0.0.jar"
+hash = "83a6e411b0a952234d72bfc2c348fc6ea2aec88b211532d088c72d38e93a05d0"
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
