@@ -2577,6 +2577,10 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "cbb1badcb336b087dba753913c45e3e8059f5d5891ed51f2078861602fa0c254"
 
 [[files]]
+file = "mods/Slate_Work-1.0.5.jar"
+hash = "02e17cc19dcd67cd455fead22deb42834d12ae6ecfe269129bdce481abcc3ae2"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "da42d2a6e6e3f7bd10df625ab23d6ba8a50ecb3545c1c3c6bda4f826caa5d51b"
 metafile = true
