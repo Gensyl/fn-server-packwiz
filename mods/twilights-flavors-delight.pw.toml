@@ -1,13 +1,13 @@
 name = "Twilight's Flavors & Delight"
-filename = "twilightdelight-2.0.13.jar"
+filename = "twilightdelight-2.0.17.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c9c5443eb26e3248c12f286a3c90b582e33c8ea"
+hash = "8fee2ecc50a8ae5f71bfb0e0230ac594634c64da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5802985
+file-id = 6802211
 project-id = 871735
