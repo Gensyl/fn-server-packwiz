@@ -3163,6 +3163,11 @@ hash = "aa80f559061dc262eeb6c0652bbc2edeb8372d5e17969e45e8e6e8bd9799ec12"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "6f23ef511a34d6729362ae4a92c2f0ca61915db5b70ef1adef2d9c7efd6fbb35"
 metafile = true
