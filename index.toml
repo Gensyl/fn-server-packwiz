@@ -3263,6 +3263,11 @@ hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
 metafile = true
 
 [[files]]
+file = "mods/hierophantics.pw.toml"
+hash = "dc78286a883782d0ec570f31adf3ba18f36a5a9582c907a69326d8d1de9c3ae3"
+metafile = true
+
+[[files]]
 file = "mods/huntersreturn.pw.toml"
 hash = "23ed3ea061176d39f5a7b80183634aced6d08f0f771d4b3f4ca909777ec99a50"
 metafile = true
