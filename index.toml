@@ -3445,8 +3445,8 @@ hash = "92a593afc5f1c188a65c5cf451eeb9bfe0d34f4d5354258e337ada2c0d8b701f"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks-1.5.4.5.jar"
-hash = "a6a415aa84e0df28e46296d39e6d07497e8d07740b7c514fba33376c4f8edfa4"
+file = "mods/lapisworks-1.5.5.jar"
+hash = "359b6d70f01350fc544ed66cb7c8c62b66b8dcfed1862510388542648923fb76"
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
